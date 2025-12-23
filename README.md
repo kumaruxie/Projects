@@ -7,32 +7,23 @@ Overview
 
 This repository contains realistic, portfolio-grade projects built to practice and demonstrate:
 
-Modern web design principles
-
-Responsive layouts (mobile-first where applicable)
-
-Clean HTML/CSS structure
-
-Functional JavaScript (where required)
-
-UI/UX thinking, not just visuals
+-Modern web design principles
+-Responsive layouts (mobile-first where applicable)
+-Clean HTML/CSS structure
+-Functional JavaScript (where required)
+-UI/UX thinking, not just visuals
 
 Each project is either:
 
-A mock product/business, or
+-A mock product/business, or
+-A concept built to solve a specific UI/UX problem
 
-A concept built to solve a specific UI/UX problem
+Tech Stack:
 
-Tech Stack
-
-HTML5
-
-CSS3
-
-JavaScript (Vanilla)
-
-Figma (for UI/UX and design systems)
-
-Git & GitHub
+-HTML5
+-CSS3
+-JavaScript (Vanilla)
+-Figma (for UI/UX and design systems)
+-Git & GitHub
 
 No frameworks unless explicitly mentioned inside a project.
